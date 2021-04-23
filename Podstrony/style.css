@@ -1,0 +1,142 @@
+body
+{
+    background-color: rgb(218, 203, 203);
+}
+#napis
+{
+font-size: 65px;
+font-weight: 800;
+text-align: center;
+color: rgb(0, 0, 0);
+}
+#container
+{
+min-height: 600px;
+width: 700px;
+border: 3px solid black;
+margin: auto;
+margin-top: 40px;
+background-color: rgb(255, 255, 255);
+}
+#glowna
+{
+    height: 300px;
+    width: 1056px;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.a
+{
+float: left;
+height: 300px;
+width: 350px;
+border-right: 3px solid black;
+}
+.a:hover
+{
+background-color: rgb(179, 176, 176);
+}
+.b
+{
+
+    height: 300px;
+    width: 350px;
+    float: left;
+}
+.b:hover
+{
+    background-color: rgb(179, 176, 176);
+}
+.c
+{
+    
+    height: 300px;
+    width: 350px;
+    float: right;
+    border-left: 3px solid black;
+}
+.c:hover
+{
+    background-color: rgb(179, 176, 176);
+    
+}
+
+.Pyt
+{
+font-size: 30px;
+text-align: center;
+}
+.info
+{
+font-size: 20px;
+text-align: justify;
+padding-left: 15px;
+padding-right: 15px;
+}
+hr{
+border:2px dotted black;
+}
+.powrot
+{
+height: 70px;
+width: 70px;
+padding-left: 150px;
+}
+.dzial
+{
+color:rgb(0, 0, 0);
+text-align: center;
+margin-top: 130px;
+font-size:30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 600;
+}
+.pyt
+{
+font-size: 20px;
+}
+.potega
+{
+font-size: 15px;
+}
+.oblicz
+{
+font-size: 25px;
+
+}
+.przycisk
+{
+background-color: rgb(38, 126, 38);
+height: 50px;
+width: 130px;
+margin-left: 280px;
+color: wheat;
+font-size: 20px;
+border:1px solid black;
+border-radius: 15px;
+outline: none;
+cursor:pointer;
+}
+.przycisk:hover
+{
+    background-color: rgb(24, 173, 24);
+    color: rgb(0, 0, 0);
+}
+input{
+width: 70px;
+}
+.img
+{
+float: right;
+height: 150px;
+width: 250px;
+}
+.kwadrat
+{
+    float: right;
+height: 200px;
+width: 200px;
+}
+
